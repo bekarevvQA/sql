@@ -1,4 +1,4 @@
-# 📚 My SQL
+# 📚 MySQL
 
 Here is MySQL queries that I used to work with  <a href="https://intern.demoshopping.ru/"> Intern Shop Database</a>:
 1) <a href="https://docs.google.com/document/d/1byDjh2wEmMQBm84-Li8UFsDcHwAlo1pSBwCAHJgpYJk/edit?usp=sharing">Queries and DB validation scripts</a>
